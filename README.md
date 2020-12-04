@@ -46,4 +46,5 @@ private async Task<List<FxRates>> GetDataFromLinkedApi(string parameters)
 Application Configuration:
 
 "ExternalApiBaseUrl": "https://webapp-dev01.az-ase-ms-gen01.appserviceenvironment.net/",
+
 "ExternalMethodUrl": "api/MyExternalMethod"
