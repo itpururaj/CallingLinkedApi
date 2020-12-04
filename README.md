@@ -1,4 +1,4 @@
-# CallingLinkedApi
+# Calling Linked Api
 How to call one api from another api
 
 
